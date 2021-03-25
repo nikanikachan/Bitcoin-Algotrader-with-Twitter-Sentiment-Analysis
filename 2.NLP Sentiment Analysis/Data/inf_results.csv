@@ -1,0 +1,7 @@
+,corr_textblob,corr_vader,btc_twt_count,avg_textblob,avg_vader
+Charlie,0.14,-0.03,454,0.15,0.22
+Roger,-0.14,-0.06,501,0.14,0.19
+Andreas,0.09,-0.0,750,0.15,0.27
+Pomp,-0.18,0.15,535,0.18,0.26
+Vitalik,0.26,0.25,212,0.13,0.21
+Combined_inf,0.02,0.02,1705,0.15,0.22
